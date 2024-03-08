@@ -1,4 +1,4 @@
-# Final Report
+# Report
 ## Advanced Programming, IT-2202
 ### Dana Uteusheva, Sabina Alzhanova, Olzhas Nurkaidar
 ---
